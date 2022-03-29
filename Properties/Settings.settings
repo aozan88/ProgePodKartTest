@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProgePodKartTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FirmaKodu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">18028</Value>
+    </Setting>
+    <Setting Name="ComPortArduino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM3</Value>
+    </Setting>
+    <Setting Name="ComPortMultimetre" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM4</Value>
+    </Setting>
+    <Setting Name="admin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">proge</Value>
+    </Setting>
+    <Setting Name="adminpass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=(local);Initial Catalog=ProgePodKartTest;Integrated Security=True;</Value>
+    </Setting>
+    <Setting Name="DBTableName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UretimVerileri</Value>
+    </Setting>
+    <Setting Name="userloginname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">proge</Value>
+    </Setting>
+    <Setting Name="userloginpass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="IsDbGenerated" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Printer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">XPRINTER XP-470B</Value>
+    </Setting>
+    <Setting Name="UrunStokKodu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">STK</Value>
+    </Setting>
+    <Setting Name="UrunGrupKodu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UGK</Value>
+    </Setting>
+    <Setting Name="UrunKodu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">No</Value>
+    </Setting>
+    <Setting Name="UretimTarihiKodu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UUT</Value>
+    </Setting>
+    <Setting Name="FirmaAdi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Proge</Value>
+    </Setting>
+    <Setting Name="UrunTestTarihiKodu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UTT</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
